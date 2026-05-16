@@ -188,9 +188,9 @@ SAP-S4HANA-Procurement-Sales/
 
 ## Author
 
-**Nourchene**
+**Nourchene Garbouj**
 - SAP S/4HANA — MM & SD Modules
-- Connect on [LinkedIn](#) ← add your link here
+- Connect on [LinkedIn](linkedin.com/in/nourchene-garbouj-3382b325a) 
 
 ---
 
