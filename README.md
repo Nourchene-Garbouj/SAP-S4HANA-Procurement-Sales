@@ -190,7 +190,7 @@ SAP-S4HANA-Procurement-Sales/
 
 **Nourchene**
 - SAP S/4HANA — MM & SD Modules
-- Connect on [LinkedIn](#) ← add your link here
+- Connect on [LinkedIn](https://www.linkedin.com/in/nourchene-garbouj-3382b325a)s
 
 ---
 
